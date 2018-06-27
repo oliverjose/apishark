@@ -1,0 +1,26 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "ORACLEDB": {
+    "host": "10.1.172.180",
+    "port": 1521,
+    "database": "DEVSTG",
+    "password": "xpto",
+    "name": "ORACLEDB",
+    "tns": "",
+    "user": "MILENIUM",
+    "connector": "oracle"
+  },
+  "ComposeMongo": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "ecommerce",
+    "password": "",
+    "name": "ComposeMongo",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
